@@ -117,3 +117,4 @@ The search **Phantom Blade Zero Phantom Edges** covers a separate part of the co
 
 A clean **Phantom Blade Zero weapons checklist** makes completion runs easier: highlight missing gear, add source references and review the list after new patches. Download the Windows Release archive directly via the ZIP link near the top of this README.
  
+ 
